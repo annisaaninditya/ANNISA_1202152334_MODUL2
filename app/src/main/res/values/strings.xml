@@ -1,0 +1,15 @@
+<resources>
+
+
+
+    <string name="app_name">ANNISA ANINDITYA_1202152334_MODUL2</string>
+    <string name="date_button">Date</string>
+    <string name="time_button">Time</string>
+    <string name="nothing_selected" />
+    <string name="date">date</string>
+    <string name="time_picker" />
+    <string name="date_picker" />
+    <string name="time" />
+
+
+</resources>
